@@ -1,0 +1,28 @@
+### Module positions - created on Fri Apr 28 21:04:41 2023 ###
+### Printed by Pcbnew version (6.0.11)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                 Package                   PosX       PosY       Rot  Side
+C3        100nF               C_0603_1608Metric     117.3434   -66.2940  180.0000  top
+C4        10uF                C_0603_1608Metric     117.2934   -68.6504  180.0000  top
+C5        100nF               C_0603_1608Metric     116.5184   -51.8994   90.0000  top
+C6        100nF               C_0603_1608Metric     123.3764   -55.8234   90.0000  top
+C7        1uF                 C_0603_1608Metric     117.0264   -59.3924   90.0000  top
+C8        1uF                 C_0603_1608Metric     123.1224   -59.3924   90.0000  top
+D1        REDLED              LED_0603_1608Metric   127.4695   -65.4050  180.0000  top
+D2        GreenLED            LED_0603_1608Metric   127.2540   -52.7365  180.0000  top
+ESP1-SW1  ESP1-RESET          SW_SPST_B3U-1000P     119.9964   -51.8864    0.0000  top
+ESP1-SW2  ESP1-BOOT           SW_SPST_B3U-1000P     119.9964   -55.6964  180.0000  top
+ESP1-SW3  FactoryRST          SW_SPST_B3U-1000P     120.0930   -62.9920    0.0000  top
+ESP1-U1   ME6211C33M5G-N      SOT-23-5              120.0799   -59.4404    0.0000  top
+ESP1-U2   ESP1-ESP32S3-Wroom  ESP32-S3-WROOM-1      104.5364   -59.5064   90.0000  top
+J2        USB_C_Receptacle    GT-USB-7010           129.6460   -58.8010   90.0000  top
+R1        22R                 R_0603_1608Metric     124.0994   -67.6910  180.0000  top
+R2        22R                 R_0603_1608Metric     124.0994   -65.1510  180.0000  top
+R3        10k                 R_0603_1608Metric     123.3764   -51.9494   90.0000  top
+R4        330                 R_0603_1608Metric     127.2925   -51.0855    0.0000  top
+R5        330                 R_0603_1608Metric     127.5080   -67.0560    0.0000  top
+R6        5.1k                R_0603_1608Metric     120.4590   -68.7070  180.0000  top
+R7        5.1k                R_0603_1608Metric     120.6500   -66.2940    0.0000  top
+R8        10k                 R_0603_1608Metric     116.7130   -62.6740   90.0000  top
+## End

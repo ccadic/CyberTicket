@@ -1,0 +1,7 @@
+### Module positions - created on Fri Apr 28 21:04:41 2023 ###
+### Printed by Pcbnew version (6.0.11)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val             Package                PosX       PosY       Rot  Side
+U1        176x320_st7789  ST7789-176x320     -84.3280   -34.9428   90.0000  bottom
+## End
