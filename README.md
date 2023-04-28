@@ -2,6 +2,8 @@
 Minimalistic EP32S3 ticket for Nerdmining
 French design by @sulfuroid
 
+![alt text](https://github.com/ccadic/CyberTicket/blob/main/cyberticket2.jpg)
+
 This is a super small board equipied with an ESP32S3 Wroom uController 
 Beside the 2 classic buttons (Reset & Boot), you have a customizable 3rd button
 You also have 2 pins to connect a solar panel.
